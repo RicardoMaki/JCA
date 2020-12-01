@@ -1,0 +1,34 @@
+
+@media (max-width: 1200px) {
+
+    #logo {
+        width: 0px;
+    }
+
+    #logo h1 {
+        font-size: 1.5em;
+    }
+
+    .container {
+        width: 900px;
+    }
+
+    #banner img {
+        width: 900px;
+    }
+
+    .tbox3 {
+        margin-top: 30px;
+        float: left!important;
+    }
+
+    #fbox3 {
+        margin-top: 30px;
+        float: left!important;
+    }
+
+}
+
+@media (max-width: 910px) { 
+
+}
